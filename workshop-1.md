@@ -113,7 +113,7 @@ Random colors are assigned to each of the values, which is not really what we wa
 * Ctrl-click to select just the 'motorway', 'primary', and 'secondary' symbols
 * Right-click > Change width to 0.7mm
 
-Try turning on labels for the streets (using the "label" field) and zooming in and out a bit.
+Try turning on labels for the streets (using the "name" field) and zooming in and out a bit.
 * PRO-TIP: Use Ctrl-scroll to zoom more slowly with more control
 
 There are many options that can be configured to improve the appearance of the labels, but it can require a lot of work and even manual adjustments to make it look really good, so...
@@ -245,3 +245,4 @@ If you have data that extends beyond your area of interest, and don't want to ex
 
 * elevation data - pseudocolor, hillshades, and contours
 * landcover
+* other satellite/imagery web services
