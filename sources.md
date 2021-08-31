@@ -20,8 +20,9 @@ Many other datasets can be found online.  Geolode is a searchable catalog of web
 * <https://geolode.org/>
 
 If you don't find what you need there, try searching the web for combinations like:
-* niagara gis data
-* niagara shapefile
-* niagara shp
+* brazil gis data
+* brazil sig dados (Portuguese)
+* brazil shapefile
+* brazil shp
 
 Feel free to contact me at kgj2@cornell.edu for help finding geospatial data, or set up an appointment at <https://guides.library.cornell.edu/gis/help>
