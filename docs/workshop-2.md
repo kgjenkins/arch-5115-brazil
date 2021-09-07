@@ -118,4 +118,11 @@ Similarly, you would use "Save style..."  to export such a file.
 
 ## Other satellite imagery
 
-In addition to the aerial imagery available via the Bing, Google, etc. basemaps, it is also possible to acquire satellite imagery for specific dates.
+In addition to the aerial imagery available via the Bing, Google, etc. basemaps, it is also possible to acquire satellite imagery for specific dates.  There are numerous satellites that are orbiting the planet and collecting data on a regular schedule.  For example, Landsat covers most of the planet every 14 days.  Some images are too cloudly for use, but you can usually find an good image within a couple months of a specific year.  Sentinel-2 is another popular imagery satellite -- it is operated by the European Space Agency, which makes many of its data products freely available.
+
+* Explore the various .tif files in the "data/sentinel" folder
+* Use the Value Tool to view the values of these rasters
+
+These samples were downloaded using [Sentinel Hub's EO Browser](https://apps.sentinel-hub.com/eo-browser/) where you can search and preview images in your browser.  Several versions of each image are available, such as true color, false color (infrared), NDVI (vegetation index), moisture index, NDWI (water index), and more.  Each of these derived products were designed to help identify specific things on the ground.
+
+If you want to download GeoTIFF files for use with GIS software, you'll need to register for a free login.
