@@ -1,4 +1,4 @@
-QGIS workshops for ARCH 5115 (Dietzsche), focusing on Xingu, Brazil \
+QGIS workshops for ARCH 5115 (Dietzsch), focusing on Xingu, Brazil \
 Fall 2021
 
 [Workshop 1](workshop-1)
